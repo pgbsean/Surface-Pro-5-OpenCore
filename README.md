@@ -8,8 +8,6 @@ This repo lets you download the EFI for the Surface Pro 5 lineup.
 >[!NOTE]
 >I no longer have access to my Surface Pro 5. Any new bugs won't be straight forward, and PRs are welcome.
 
->Please don't be misunderstood that this project is abandoned, I'm just not in the mood of maintaining a project that might be killed off by future macOS updates
-
 >[!CAUTION]
 >The EFI is **ONLY** educational purposes and is not affiliated with neither Microsoft, Apple, nor the computer maker. You are responsible for the damage caused to your machine.
 
@@ -41,20 +39,10 @@ This repo lets you download the EFI for the Surface Pro 5 lineup.
 > This is to be expected since BigSurface does not implement camera support yet.
 
 + No Windows Hello support
-> be for real when did macOS support face id
 
 + No Wi-Fi & Bluetooth support
 
 + No DRM acceleration
 
 + Hotter than usual
-
-
-## Tested versions
-+ macOS Catalina
-+ macOS Big Sur
-+ macOS Monterey
-+ macOS Ventura
-+ macOS Sonoma
-+ **[BETA]** macOS Sequioa
 
